@@ -1,0 +1,25 @@
+.mainHeading{
+    text-align: center;
+}
+.subHeading{
+    text-align: center;
+}
+#input{
+    width: 300px;
+    height: 35px;
+    font-size: 1.2rem;
+}
+.inp{
+    text-align: center;
+}
+#imageContainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    gap: 25px;
+    
+}
+.images{
+    width: 100px;
+    height: 100px;
+}
